@@ -1,0 +1,15 @@
+Junaid Test,500
+Items bought: 
+Coffee,200
+Kava Chai,100
+New Item,200
+--------------------------------------
+Test 2,300
+Items bought: 
+Kava Chai,100
+New Item 2,200
+--------------------------------------
+Test Again,200
+Items bought: 
+Lays,200
+--------------------------------------

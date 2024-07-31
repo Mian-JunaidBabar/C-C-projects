@@ -1,0 +1,5 @@
+Tea,100
+Coffee,200
+Kava,100
+Snacks,200
+Lays,200
